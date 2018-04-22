@@ -1,11 +1,24 @@
 {
-  "name": "react-select-states",
+  "name": "react-tabs1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1",
-    "react-scripts": "1.1.4"
+    "bootstrap": "^4.0.0",
+    "create-react-class": "^15.6.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-bootstrap": "^0.32.1",
+    "react-collapse": "^4.0.3",
+    "react-collapsible": "^2.0.4",
+    "react-dom": "^16.2.0",
+    "react-motion": "^0.5.2",
+    "react-scripts": "1.1.1",
+    "react-select": "^1.2.1",
+    "react-sidebar": "^2.3.2",
+    "react-sliding-pane": "^2.0.2",
+    "react-tabs": "^2.2.1",
+    "react-typeahead": "^2.0.0-alpha.8"
   },
   "scripts": {
     "start": "react-scripts start",
