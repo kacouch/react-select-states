@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 import 'react-sliding-pane/dist/react-sliding-pane.css';
-import Select from 'react-select';
-//import Select from './Select';
+//import Select from 'react-select';
+import Select from './Select';
 import createClass from 'create-react-class';
 import PropTypes from 'prop-types';
 
